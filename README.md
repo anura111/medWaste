@@ -4,4 +4,4 @@
 Along with our k-NN model which works as a way to confirm the classification of a hospital as grade A through grade F, we additionally created a Figma prototype that provided hospitals with resources to understand
 their grade and improve.
 
-  My role for this project was pitching this code during our presentation, as well as coding this algorithm alongside another individual. Out of ~20 teams comprised of both undergraduate and graduate students, our team won third place.
+  My role for this project was pitching this code during our presentation, as well as coding this algorithm. Out of ~20 teams comprised of both undergraduate and graduate students, our team won third place.
